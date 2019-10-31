@@ -18,14 +18,16 @@
 
         <TextView
             android:id="@+id/txtOff"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_gravity="center"
             android:background="@drawable/rounded_button_white"
             android:backgroundTint="#FFFFFF"
             android:gravity="center"
-            android:padding="5dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
             android:text="OFF"
+            android:layout_weight="1"
             android:textColor="#00BCD4"
             android:textSize="18sp" />
 
@@ -33,6 +35,9 @@
         <TextView
             android:id="@+id/txtOn"
             android:layout_width="0dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:background="@drawable/rounded_button_bg"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
