@@ -45,6 +45,5 @@ aSwitch.setTabColor(getResources().getColor(R.color.query_grey));
 // set selectedTab after: backgroundColor and TabColor
 // for tab 1 selected
 aSwitch.selectedTab(1);
-}
 
 ```
