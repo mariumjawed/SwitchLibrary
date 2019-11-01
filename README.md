@@ -19,7 +19,7 @@ in your build.gradle (Module)
 implementation 'com.github.mariumjawed:SwitchLibrary:1.0.0'
 ```
 
-# In your .xml
+## In your .xml
 ```groovy
 <com.mariumjawedsheikh.switchmodule.MainActivityLibrarySwitch
 	android:id="@+id/switchLibrary"
@@ -31,4 +31,20 @@ implementation 'com.github.mariumjawed:SwitchLibrary:1.0.0'
 
 ```
 
+## In your java file
+```groovy
+MainActivityLibrarySwitch aSwitch;
 
+aSwitch = findViewById(R.id.switchLibrary);
+aSwitch.setHeight(40);
+aSwitch.setWidth(180);
+aSwitch.setText1("Male");
+aSwitch.setText2("Female");
+aSwitch.setBackgroundColor(getResources().getColor(R.color.panic_blue));
+aSwitch.setTabColor(getResources().getColor(R.color.query_grey));
+// set selectedTab after: backgroundColor and TabColor
+// for tab 1 selected
+aSwitch.selectedTab(1);
+}
+
+```
