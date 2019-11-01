@@ -1,19 +1,15 @@
 package com.mariumjawedsheikh.switchmodule;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Context;
 import android.graphics.Color;
-import android.graphics.ColorFilter;
 import android.graphics.drawable.GradientDrawable;
-import android.os.Bundle;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.tekrevol.switchmodule.R;
+import com.mariumjawedsheikh.switchmodule.R;
 
 public class MainActivityLibrarySwitch extends LinearLayout {
 

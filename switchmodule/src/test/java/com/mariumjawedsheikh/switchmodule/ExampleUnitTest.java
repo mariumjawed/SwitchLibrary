@@ -1,4 +1,4 @@
-package com.tekrevol.switchmodule;
+package com.mariumjawedsheikh.switchmodule;
 
 import org.junit.Test;
 
