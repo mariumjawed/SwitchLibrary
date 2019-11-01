@@ -1,6 +1,8 @@
 # SwitchLibrary
 [![](https://jitpack.io/v/mariumjawed/SwitchLibrary.svg)](https://jitpack.io/#mariumjawed/SwitchLibrary)
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38984986/68020232-af35c300-fcbf-11e9-8229-35d7c6a859f7.gif)
+
 
 ## Installation
 
