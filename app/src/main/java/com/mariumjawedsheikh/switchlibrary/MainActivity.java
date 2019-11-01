@@ -1,11 +1,12 @@
-package com.tekrevol.switchlibrary;
+package com.mariumjawedsheikh.switchlibrary;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.tekrevol.switchmodule.MainActivityLibrarySwitch;
+import com.mariumjawedsheikh.switchmodule.MainActivityLibrarySwitch;
+import com.tekrevol.switchlibrary.R;
 
 public class MainActivity extends AppCompatActivity {
 

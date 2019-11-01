@@ -1,4 +1,4 @@
-package com.tekrevol.switchmodule;
+package com.mariumjawedsheikh.switchmodule;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,6 +12,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.tekrevol.switchmodule.R;
 
 public class MainActivityLibrarySwitch extends LinearLayout {
 
