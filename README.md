@@ -4,9 +4,12 @@
 
 ## Installation
 
-- Get it via gradle: ``` allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	} ```
+in your build.gradle (Project)
+```groovy
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
