@@ -4,9 +4,9 @@
 
 ## Installation
 
-- Add it in your root build.gradle at the end of repositories: ``` allprojects {
-\t\trepositories {
-\t\t\t...
-\t\t\tmaven { url 'https://jitpack.io' }
-\t\t}
-\t} ```
+- Get it via gradle: ``` allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	} ```
