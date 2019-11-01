@@ -37,11 +37,12 @@
             android:layout_width="0dp"
             android:paddingLeft="2dp"
             android:paddingRight="2dp"
-            android:background="@drawable/rounded_button_bg"
+            android:background="@drawable/rounded_button_white"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
             android:padding="5dp"
+            android:backgroundTint="#FFFFFF"
             android:text="ON"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />

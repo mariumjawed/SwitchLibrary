@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="panic_blue">#4F81BD</color>
     <color name="query_grey">#f3f5f7</color>
+    <color name="material_purple500">#ff9c27b0</color>
 </resources>
